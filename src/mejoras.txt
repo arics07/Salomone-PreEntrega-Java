@@ -1,3 +1,0 @@
-Actualizar el stock cuando se hace una compra
-
-Los pedidos no tienen id cuando se crean
